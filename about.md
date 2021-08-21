@@ -9,7 +9,7 @@ Soy estudiante de Ingeniería industrial y quiero adentrarme en el mundo de la C
 
 ### Más información
 
-Si te interesa lo que hago puesdes contactarme.
+Si te interesa lo que hago puedes contactarme.
 
 ### Contáctame
 
