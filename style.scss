@@ -167,12 +167,12 @@ img {
   float: left;
   width: 70px;
   height: 70px;
-  margin-right: 15px;
+  margin-right: auto;
 
   @include mobile {
     float: none;
     display: block;
-    margin: 10 auto;
+    margin: auto;
   }
 
   img {
