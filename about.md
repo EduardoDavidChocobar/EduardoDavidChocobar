@@ -8,7 +8,7 @@ Estudio Ingeniería industrial y además quiero adentrarme en el mundo de la Cie
 
 ### Más información
 
-Si te interesa lo que hago, puesdes contactarme.
+Si te interesa lo que hago puesdes contactarme.
 
 ### Contáctame
 
