@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-Some information about you!
+Estudio Ingeniería industrial y además quiero adentrarme en el mundo de la Ciencia de datos.
 
-### More Information
+### Más información
 
-A place to include any other types of information that you'd like to include about yourself.
+Si te interesa lo que hago, puesdes contactarme.
 
-### Contact me
+### Contáctame
 
 [chocobareduardodavid@gmail.com](mailto:chocobareduardodavid@gmail.com)
