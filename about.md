@@ -4,7 +4,8 @@ title: Acerca de
 permalink: /about/
 ---
 
-Estudio Ingeniería industrial y además quiero adentrarme en el mundo de la Ciencia de datos.
+Soy estudiante de Ingeniería industrial y quiero adentrarme en el mundo de la Ciencia de datos y la Inteligencia artificial.
+
 
 ### Más información
 
