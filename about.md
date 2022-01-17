@@ -3,7 +3,7 @@ layout: page
 title: Acerca de mí
 permalink: /about/
 ---
-Estudio Ingeniería Industrial.
+Estudio Ingeniería Industrial en la Universidad Nacional de Luján.
 
 
 ### Más información
