@@ -3,13 +3,12 @@ layout: page
 title: Acerca de mí
 permalink: /about/
 ---
-
-Soy estudiante de Ingeniería industrial y busco adentrarme en el mundo de la Ciencia de datos y la Inteligencia artificial.
+Estudio Ingeniería Industrial.
 
 
 ### Más información
 
-Si te interesa lo que hago puedes contactarme.
+Si quieres puedes contactarme.
 
 ### Contáctame
 
