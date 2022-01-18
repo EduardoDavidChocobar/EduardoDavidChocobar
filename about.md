@@ -8,7 +8,7 @@ Estudio Ingeniería Industrial en la Universidad Nacional de Luján.
 
 ### Más información
 
-Si quieres puedes contactarme.
+No hay.
 
 ### Contáctame
 
