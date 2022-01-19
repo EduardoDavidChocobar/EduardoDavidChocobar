@@ -2,6 +2,8 @@
 layout: post
 title: Historia de los dos que soñaron - J.L.Borges
 ---
+..................................................................................
+
 
 Cuentan que hubo en El Cairo un hombre poseedor de riquezas, pero tan
 generoso y liberal que todas las perdió, menos la casa de su su padre, y que se 
