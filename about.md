@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: Acerca de mí
 permalink: /about/
 ---
