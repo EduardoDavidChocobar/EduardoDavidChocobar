@@ -5,12 +5,12 @@ excerpt_separator: <!--more-->
 ---
 ..................................................................................
 
-<!–more–>
-
 Cuentan que hubo en El Cairo un hombre poseedor de riquezas, pero tan
 generoso y liberal que todas las perdió, menos la casa de su su padre, y que se 
 vio forzado a trabajar para ganarse el pan. Trabajó tanto que el sueño lo rindió 
 debajo de una higuera de su jardín y vio en el sueño a un desconocido que le dijo:
+
+<!–more–>
 
 -Tu fortuna está en Persia, en Ispahán; vete buscarla.
 
