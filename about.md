@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: Acerca de mí
 permalink: /about/
 ---
