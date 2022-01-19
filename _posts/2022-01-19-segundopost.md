@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Historia de los dos que soñaron - J.L.Borges
+excerpt_separator: <!--more-->
 ---
 ..................................................................................
 
