@@ -2,7 +2,7 @@
 layout: post
 title: Historia de los dos que soñaron - J.L.Borges
 ---
-..................................................................................
+
 
 Cuentan que hubo en El Cairo un hombre poseedor de riquezas, pero tan
 generoso y liberal que todas las perdió, menos la casa de su su padre, y que se 
@@ -49,4 +49,3 @@ sueño. Que no vuelva a verte en Ispahán. Toma estas monedas y vete.
 
 El hombre las tomó y regresó a la patria. Debajo de la higuera de su casa (que era 
 la del sueño del juez) desenterró el tesoro.
-
