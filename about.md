@@ -14,7 +14,7 @@ fácil adaptación y rápido aprendizaje.
 
 ### Más información
 
-No hay.
+Vivo en San Andrés de Giles y curso en la Universidad Nacional de Luján.
 
 ### Contáctame
 
