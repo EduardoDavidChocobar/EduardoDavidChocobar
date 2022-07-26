@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Historia de los dos que soñaron - J.L.Borges
+excerpt_separator: <!--more-->
 ---
 
 
@@ -9,7 +10,7 @@ generoso y liberal que todas las perdió, menos la casa de su su padre, y que se
 vio forzado a trabajar para ganarse el pan. Trabajó tanto que el sueño lo rindió 
 debajo de una higuera de su jardín y vio en el sueño a un desconocido que le dijo:
 
-
+<!--more-->
 
 -Tu fortuna está en Persia, en Ispahán; vete buscarla.
 
