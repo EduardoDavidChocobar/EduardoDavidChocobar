@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Historia de los dos que soñaron - J.L.Borges
-excerpt_separator: <!--more-->
 ---
 ..................................................................................
 
@@ -50,3 +49,4 @@ sueño. Que no vuelva a verte en Ispahán. Toma estas monedas y vete.
 
 El hombre las tomó y regresó a la patria. Debajo de la higuera de su casa (que era 
 la del sueño del juez) desenterró el tesoro.
+
