@@ -3,13 +3,9 @@ layout: page
 title: Acerca de mí
 permalink: /about/
 ---
-Estudiante de Ingeniería Industrial. En
-busca de crecimiento tanto laboral como
-personal en el área. Deseo ampliar mis
-conocimientos y experiencias. Me
-considero una persona de buenas
-relaciones interpersonales, grupales, de
-fácil adaptación y rápido aprendizaje.
+Estudiante de Ingeniería Industrial y de Inteligencia Artificial.
+
+En el sueño de la ciencia ficción.
 
 
 ### Más información
