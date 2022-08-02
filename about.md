@@ -3,9 +3,7 @@ layout: page
 title: Acerca de mí
 permalink: /about/
 ---
-Estudiante de Ingeniería Industrial y de Inteligencia Artificial.
-
-En el sueño de la ciencia ficción.
+Estudiante de Ingeniería Industrial.
 
 
 ### Más información
