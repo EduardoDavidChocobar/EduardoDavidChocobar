@@ -5,15 +5,15 @@ excerpt_separator: <!--more-->
 ---
 
 
-No quedará en la noche una estrella. 
-No quedará la noche. 
+No quedará en la noche una estrella.<br>
+No quedará la noche.<br>
 <!--more-->
-Moriré y conmigo la suma 
-del intolerable universo. 
-Borraré las pirámides, las medallas, 
-los continentes y las caras. 
-Borraré la acumulación del pasado. 
-Haré polvo la historia, polvo el polvo. 
-Estoy mirando el último poniente. 
-Oigo el último pájaro. 
+Moriré y conmigo la suma<br>
+del intolerable universo.<br>
+Borraré las pirámides, las medallas,<br>
+los continentes y las caras.<br>
+Borraré la acumulación del pasado.<br>
+Haré polvo la historia, polvo el polvo.<br>
+Estoy mirando el último poniente.<br>
+Oigo el último pájaro.<br>
 Lego la nada a nadie.
