@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El Suicida - J.L.Borges
+title: El suicida - J.L.Borges
 excerpt_separator: <!--more-->
 ---
 
