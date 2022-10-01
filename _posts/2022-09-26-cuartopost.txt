@@ -5,6 +5,6 @@ excerpt_separator: <!--more-->
 ---
 
 
-Me dices que el silencio está más cerca de la paz que de los poemas<!--more-->, pero si como un regalo yo te ofreciera el silencio, (porque yo sé lo que es el silencio) tú dirías: "Esto no es el silencio es otro poema", y me lo devolverías.<br>
+Me dices que el silencio está más cerca de la paz que de los poemas<!--more-->,<br>pero si como un regalo yo te ofreciera el silencio,<br>(porque yo sé lo que es el silencio) tú dirías:<br>"Esto no es el silencio es otro poema", y me lo devolverías.<br>
 <br>
 Autor desconocido
