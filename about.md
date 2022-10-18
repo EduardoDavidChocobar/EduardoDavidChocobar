@@ -3,14 +3,14 @@ layout: page
 title: Acerca de mí
 permalink: /about/
 ---
-Estudiante de Ingeniería Industrial.
+Estudiante de Ingeniería Industrial en la Universidad Nacional de Luján.
 
 Recopilo cuentos, poemas, fragmentos, etc. que me gustan y los comparto.
 
 
 ### Más información
 
-Vivo en San Andrés de Giles y curso en la Universidad Nacional de Luján.
+Vivo en San Andrés de Giles.
 
 ### Contáctame
 
