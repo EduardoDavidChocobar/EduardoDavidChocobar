@@ -5,6 +5,8 @@ permalink: /about/
 ---
 Estudiante de Ingeniería Industrial.
 
+Recopilo cuentos, poemas, fragmentos, etc. que me gustan y los comparto.
+
 
 ### Más información
 
