@@ -4,7 +4,7 @@ title: Calidoscopio - Ray Bradbury
 excerpt_separator: <!--more-->
 ---
 
-El primer impacto rajó la nave como si fuera un gigantesco abrelatas. Los hombres fueron arrojados al espacio, retorciéndose como una docena de peces fulgurantes. Se diseminaron en un mar oscuro mientras la nave, convertida en un millón de fragmentos, proseguía su ruta semejando un enjambre de meteoritos en busca de un sol perdido.<br>
+El primer impacto rajó la nave como si fuera un gigantesco abrelatas.<!--more--> Los hombres fueron arrojados al espacio, retorciéndose como una docena de peces fulgurantes. Se diseminaron en un mar oscuro mientras la nave, convertida en un millón de fragmentos, proseguía su ruta semejando un enjambre de meteoritos en busca de un sol perdido.<br>
 <br>
 -Barkley, Barkley, ¿dónde estás?<br>
 <br>
